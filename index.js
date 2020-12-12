@@ -1,20 +1,20 @@
 /*
 * JANGAN UBAH-UBAH INFO!!!
 * "JANGAN MODAL NAMA DOANG BRO!!!"
-* SCRIPT BY ARIS187 ID
+* SCRIPT BY MR.N43KS ID
 * JANGAN MODAL NAMA DOANG BOSQ
 * HARGAILAH YY MEMBUAT SCRIPT INI BOSQ
 * JANGAN UBAH-UBAH INFO!!!
-* ARIS187 ID
+* DCA ID
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = '👾AR15BOT👾'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://instagram.com/_sadboy.ig'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'Wa.me/+6285722553839'; // JANGAN UBAH-UBAH INFO!!!
+const ~NKS = '♻MR.N43KS☡'; // JANGAN UBAH-UBAH INFO!!!
+const instagram = 'https://instagram.com/mr.n43ks'; // JANGAN UBAH-UBAH INFO!!!
+const nomer = 'Wa.me/+628979946741'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
-const groupwhatsapp = 'https://chat.whatsapp.com/GU6NsgZvfgw37vrjIxUPhP'; // JANGAN UBAH-UBAH INFO!!!
-const youtube = 'https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg'; // JANGAN UBAH-UBAH INFO!!!
-//A187ID
+const groupwhatsapp = 'https://chat.whatsapp.com/D5T1l6ZpnW9BgFFZIy0NDO'; // JANGAN UBAH-UBAH INFO!!!
+const youtube = 'https://www.youtube.com/channel/UCElDP9E5-88PJNBB-KwYEjg'; // JANGAN UBAH-UBAH INFO!!!
+//MR.N43KS
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
 const cheerio = require("cheerio");
